@@ -1,4 +1,4 @@
-# human_system
+# 人力资源管理系统前端资源
 
 ## Project setup
 ```
